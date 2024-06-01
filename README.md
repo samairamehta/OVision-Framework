@@ -49,6 +49,7 @@ OVision Overview
 
 
 
+![image (1) (1)](https://github.com/samairamehta/OVision-Framework/assets/76754142/dc6c4483-a557-4799-ab9f-1621b470a81c)
 
  
 
@@ -76,7 +77,8 @@ OVision - 3 click process to get results to aid create prognostic plans for Ovar
 1. Go the the link created by the 'Installation Guide'
 2. Upload 256x256 image for area of interest
 3. Get Results for prognostic assistance
-![image](https://user-images.githubusercontent.com/76754142/211168747-7f682c21-b7de-49bf-b9cd-f113e9870eab.png)
+
+![211168747-7f682c21-b7de-49bf-b9cd-f113e9870eab](https://github.com/samairamehta/OVision-Framework/assets/76754142/b6088bfc-3b60-484a-a767-424fc5d7e786)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
