@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/samairamehta/OVision">
+  <a href="https://github.com/samairamehta/OVision-Framework">
  <img width="986" alt="Screen Shot 2023-01-07 at 3 16 29 PM" src="https://user-images.githubusercontent.com/76754142/211173706-bdf1053e-8d30-4825-bbc2-00dd720b5bb2.png" alt="Logo" width="90" height="360">
    
   </a>
@@ -86,7 +86,7 @@ OVision - 3 click process to get results to aid create prognostic plans for Ovar
 
 
 
-See the [open issues](https://github.com/samairamehta/OVision/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/samairamehta/OVision-Framework/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +100,7 @@ See the [open issues](https://github.com/samairamehta/OVision/issues) for a full
 
 Samaira Mehta - [LinkedIn](https://www.linkedin.com/in/samaira-mehta-42907a102/) - samaira@coderbunnyz.com
 
-Project Link: [https://github.com/samairamehta/OVision](https://github.com/samairamehta/OVision)
+Project Link: [https://github.com/samairamehta/OVision](https://github.com/samairamehta/OVision-Framework)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
