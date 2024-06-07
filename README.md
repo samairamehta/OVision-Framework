@@ -100,7 +100,7 @@ See the [open issues](https://github.com/samairamehta/OVision-Framework/issues) 
 
 Samaira Mehta - [LinkedIn](https://www.linkedin.com/in/samaira-mehta-42907a102/) - samaira@coderbunnyz.com
 
-Project Link: [https://github.com/samairamehta/OVision](https://github.com/samairamehta/OVision-Framework)
+Project Link: [https://github.com/samairamehta/OVision-Framework](https://github.com/samairamehta/OVision-Framework)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
