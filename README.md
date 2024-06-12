@@ -78,7 +78,9 @@ OVision - 3 click process to get results to aid create prognostic plans for Ovar
 2. Upload 256x256 image for area of interest
 3. Get Results for prognostic assistance
 
-![211168747-7f682c21-b7de-49bf-b9cd-f113e9870eab](https://github.com/samairamehta/OVision-Framework/assets/76754142/b6088bfc-3b60-484a-a767-424fc5d7e786)
+
+![image](https://github.com/samairamehta/OVision-Framework/assets/76754142/a5df9294-5449-474a-9f0b-ea685514ea59)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
