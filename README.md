@@ -49,9 +49,8 @@ OVision Overview
 
 
 
-![image (1) (1)](https://github.com/samairamehta/OVision-Framework/assets/76754142/dc6c4483-a557-4799-ab9f-1621b470a81c)
+![Whole slide image (2)](https://github.com/samairamehta/OVision-Framework/assets/76754142/d594a1c7-0bac-4373-9a72-74a5a792d526)
 
- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
