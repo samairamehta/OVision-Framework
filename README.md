@@ -10,7 +10,7 @@
 <h3 align="center">OVision</h3>
 
   <p align="center">
-    OVision - A Raspberry-Pi Powered Portable, Low-Cost Medical Device Framework for Cancer Prognosis
+    OVision A Raspberry Pi Powered Portable Low Cost Medical Device Framework for Cancer Diagnosis
     <br />
     <a href="https://github.com/samairamehta/OVision"><strong>Explore the docs »</strong></a>
     <br />
@@ -49,7 +49,7 @@ OVision Overview
 
 
 
-![Whole slide image (2)](https://github.com/samairamehta/OVision-Framework/assets/76754142/d594a1c7-0bac-4373-9a72-74a5a792d526)
+![Whole slide image (2)](https://github.com/user-attachments/assets/821b236a-2805-4635-b86b-9c87abc593f6)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -110,7 +110,7 @@ Project Link: [https://github.com/samairamehta/OVision-Framework](https://github
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-The author wish to acknowledge Dr. Sandra Orsulic, Ph.D., Professor in Residence of Obstetrics and Gynecology at the David Geffen School of Medicine at the University of California, Los Angeles (UCLA), for helping further explore the implications and applications of this work, Stephanie Owen, Product Development Specialist at 3M, for providing 5 months of continuous guidance in the development of the raspberry-pi powered hand-held device, Ms. Shannon Deza, eighth-grade science teacher at Stratford Preparatory, who helped increase the author’s depth of knowledge in the field of ovarian cancer.
+I would like to extend my sincere gratitude to my mentors Dr. Sandra Orsulic, UCLA David Geffen School of Medicine, Stephanie Owens, Advanced Specialist Product Development - 3M Interconnect products portfolio, and Dr. Arkadiusz Gertych, Cedars-Sinai Medical Center, for their invaluable guidance, support, and advise throughout the study and development of the portable device and framework. They also educated me with the process of submitting the results to a wider research community as a means to pursue the novel idea and platform for global outreach.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
