@@ -1,4 +1,14 @@
 # OVision-Framework
+
+Publication - Nature Scientific Journal
+<br />
+Mehta, S. OVision A raspberry Pi powered portable low cost medical device framework for cancer diagnosis. Sci Rep 15, 7124 (2025). https://doi.org/10.1038/s41598-025-91914-z
+
+USPTO - Patent Pending - Filed April 17'2025
+<br />
+OVision: Portable, Low-Cost Medical Diagnostic System Utilizing Deep Learning for Cancer Detection
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
